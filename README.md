@@ -25,3 +25,9 @@ This is backend of MBatik Mobile Application that selling Batik Tulis of Gumelem
 - Run php artisan migrate
 - Run php artisan serve
 - Enjoy
+
+## Prequisites, Postman Documentation, API URL
+
+Coming sooon! just wait
+
+
